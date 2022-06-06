@@ -2,6 +2,12 @@
 
 Lab development for quantum information science education
 
+Recreate conda environment: conda env create --file conda/environment.yml
+Activate conda environment: conda activate qulabedu
+Update conda environment: conda export conda env export --name qulabedu > conda/environment.yml
+
+
+-----------------------------------------------------------
 ## Getting started
 
 To make it easy for you to get started with GitLab, here's a list of recommended next steps.
