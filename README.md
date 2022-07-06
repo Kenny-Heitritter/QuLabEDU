@@ -4,13 +4,16 @@ Lab development for quantum information science education
 
 
 
-Conda instructions:
+Dependency instructions:
 
 -Recreate conda environment: conda env create --file conda/environment.yml
 
 -Activate conda environment: conda activate qulabedu
 
--Update conda environment: conda export conda env export --name qulabedu > conda/environment.yml
+-Install relevant packages via pip: pip install qiskit qiskit[visualization]
+
+
+
 
 
 -----------------------------------------------------------
