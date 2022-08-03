@@ -12,6 +12,6 @@ No contributing at the moment!
 Kenneth Heitritter (University of Iowa), Yannick Meurice (University of Iowa), Zeineb Mezghanni (Grinnell College)
 
 ## License
-For open source projects, say how it is licensed.
+Apache License 2.0
 
 
