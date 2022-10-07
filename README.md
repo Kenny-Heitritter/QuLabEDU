@@ -9,7 +9,9 @@ QuLabEDU is a series of hands-on labs in quantum information science built for a
 - Go to the labs folder in your initialized Notebook and select your desired lab.
 
 ## Current Labs
-##### <Q|1> - The Stern-Gerlach Experiment
+ <Q|1> - The Stern-Gerlach Experiment
+  - An introduction to the concept of qubit operations and measurements. After getting aquainted with the basics, you will use qubits to recreate the Stern-Gerlach experiment which originally showed the spin-1/2 nature of the electron. Variations on the Stern-Gerlach experiment show how quantum operations and measurement behave quite differently from their classical counterparts.
+
 
 ## Roadmap
 - Complete graduate-level version of <Q|1>
