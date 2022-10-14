@@ -25,6 +25,7 @@ QuLabEDU is a series of hands-on labs in quantum information science built for a
     - Measure phase shifts in one dimension
     - Preparation of configurable Rydberg arrays
     - Phase diagram of Rydberg atom ladders
+    - Measurement of decoherence times (T1, T2) and comparison to hardware listings
 
 ## Contributing
 To contribute, please contact Kenny Heitritter at kenneth-heitritter@uiowa.edu
