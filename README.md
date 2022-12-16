@@ -1,3 +1,5 @@
+[<img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_white.png" width="150">](https://account.qbraid.com?gitHubUrl=https://github.com/Kenny-Heitritter/QuLabEDU.git)
+
 ## Overview
 QuLabEDU is a series of hands-on labs in quantum information science built for a range of education backgrounds. Each lab is a jupyter-notebook intended to be run via Amazon Web Service's cloud quantum computing platform, Braket. These notebooks consist of an introduction and a series of code-blocks and questions that are answered in real-time.
 
